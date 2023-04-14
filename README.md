@@ -1,4 +1,4 @@
-# Credit Card Spending Habits - Exploratory Data Analysis
+# Analyzing Spending Patterns to Optimize Credit Card Usage
 ## Overview
 In this project, I analyzed a credit card spending habits dataset containing information on City, Date, Card Type, Expense Type, Gender, and Amount. I performed exploratory data analysis to gain insights into spending patterns and identify trends.
 
